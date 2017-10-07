@@ -1,4 +1,5 @@
-#SP Custom Shipping
+SP Custom Payment
+=================
 
 This is magento training extension for magento learning
 
